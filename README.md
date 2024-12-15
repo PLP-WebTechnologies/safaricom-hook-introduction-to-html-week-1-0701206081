@@ -30,3 +30,91 @@ Use common HTML tags like h1, p, a, img, and ul or ol.
 Structure a webpage with semantic tags such as header, footer, nav, section, and article.
 Ensure the content is well-organized for readability and SEO.
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A simple webpage demonstrating basic HTML structure with text, images, and links">
+    <title>Simple Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            background: #f4f4f4;
+            padding: 0.5rem 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 1rem;
+            text-decoration: none;
+            color: #333;
+        }
+        section {
+            padding: 1rem;
+        }
+        article {
+            margin-bottom: 1.5rem;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Simple Webpage</h1>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>This is a simple webpage designed to demonstrate the use of basic HTML tags and semantic structure. It includes text, images, and links to make it functional and user-friendly.</p>
+    </section>
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <article>
+            <h3>Beautiful Nature</h3>
+            <img src="https://via.placeholder.com/300" alt="Nature Image" style="max-width:100%;">
+            <p>Explore the beauty of nature through stunning visuals.</p>
+        </article>
+        <article>
+            <h3>Architecture Wonders</h3>
+            <img src="https://via.placeholder.com/300" alt="Architecture Image" style="max-width:100%;">
+            <p>Marvel at the incredible architectural designs from around the world.</p>
+        </article>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Feel free to reach out to us for more information.</p>
+        <ul>
+            <li>Email: <a href="mailto:info@example.com">info@example.com</a></li>
+            <li>Phone: <a href="tel:+123456789">+123 456 789</a></li>
+            <li>Address: 123 Main Street, Anytown, USA</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Simple Webpage. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
