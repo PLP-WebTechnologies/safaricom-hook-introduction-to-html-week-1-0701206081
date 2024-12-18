@@ -106,9 +106,9 @@ Ensure the content is well-organized for readability and SEO.
         <h2>Contact Us</h2>
         <p>Feel free to reach out to us for more information.</p>
         <ul>
-            <li>Email: <a href="mailto:info@example.com">info@example.com</a></li>
-            <li>Phone: <a href="tel:+123456789">+123 456 789</a></li>
-            <li>Address: 123 Main Street, Anytown, USA</li>
+            <li>Email: <a href="mailto:val@gmai.com">val@gmai.com</a></li>
+            <li>Phone: <a href="tel:+254 711 846 096">+254 711 846 096</a></li>
+            <li>Address: 1842 Meru </li>
         </ul>
     </section>
     <footer>
