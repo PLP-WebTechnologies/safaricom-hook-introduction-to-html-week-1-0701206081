@@ -93,12 +93,12 @@ Ensure the content is well-organized for readability and SEO.
         <h2>Gallery</h2>
         <article>
             <h3>Beautiful Nature</h3>
-            <img src="https://via.placeholder.com/300" alt="Nature Image" style="max-width:100%;">
+            <img src="imag1.png" alt="Nature Image" style="max-width:100%;">
             <p>Explore the beauty of nature through stunning visuals.</p>
         </article>
         <article>
             <h3>Architecture Wonders</h3>
-            <img src="https://via.placeholder.com/300" alt="Architecture Image" style="max-width:100%;">
+            <img src="image2.png" alt="Architecture Image" style="max-width:100%;">
             <p>Marvel at the incredible architectural designs from around the world.</p>
         </article>
     </section>
