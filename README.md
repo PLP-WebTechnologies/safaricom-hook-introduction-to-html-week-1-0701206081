@@ -93,12 +93,12 @@ Ensure the content is well-organized for readability and SEO.
         <h2>Gallery</h2>
         <article>
             <h3>Beautiful Nature</h3>
-            <img src="https://i.ebayimg.com/images/g/QHoAAOSwVlJli~4L/s-l960.webp" alt="Nature Image" style="max-width:100%;" width = "50">
+            <img src="https://i.ebayimg.com/images/g/QHoAAOSwVlJli~4L/s-l960.webp" alt="Nature Image" style="max-width:100%;" width = "100">
             <p>Explore the beauty of nature through stunning visuals.</p>
         </article>
         <article>
             <h3>Architecture Wonders</h3>
-            <img src="https://media.istockphoto.com/id/506393198/photo/great-wall-of-china.jpg?s=612x612&w=0&k=20&c=cJti-RrdUUkLX_zgzi6KgPbgApHoxJtMJSvlRUYqOzg=" alt="Architecture Image" style="max-width:100%;" width = "50">
+            <img src="https://media.istockphoto.com/id/506393198/photo/great-wall-of-china.jpg?s=612x612&w=0&k=20&c=cJti-RrdUUkLX_zgzi6KgPbgApHoxJtMJSvlRUYqOzg=" alt="Architecture Image" style="max-width:100%;" width = "100">
             <p>Marvel at the incredible architectural designs from around the world.</p>
         </article>
     </section>
